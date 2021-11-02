@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+p {
+text-align: center;
+color: grey;
+}
+.sitatt {
+font-weight:bolder;
+font-style: italic;
+font-size: 50px;
+
+}
+hr{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: grey
+}
+
+.sitatt{
+  font-weight: bold;
+  font-style: italic;
+  color: grey
+}
+
+h3{
+  text-align: center;
+}
+li {
+  text-align: center;
+font-style: italic;
+font-weight: bolder;
+}
+h4{
+  text-align: center
+}
+
+.bilde {
+  center
+
+}
